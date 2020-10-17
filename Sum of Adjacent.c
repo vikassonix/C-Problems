@@ -2,7 +2,7 @@
 main(){
 	int a[1000],n,i,s;
 	
-	printf("Enter array length ");
+	printf("Enter length ");
 	scanf("%d",&n);
 	for(i=0;i<n;i++){
 		scanf("%d",&a[i]);
